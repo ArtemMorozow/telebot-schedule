@@ -1,4 +1,4 @@
-token = '2005754478:AAH2RTXBYayWsPBijzzbdt1aa8FHdQ6bzJg'
+token = 'your token'
 
 main_url = 'http://oreluniver.ru/schedule/'
 url_division_list_for_studs = 'http://oreluniver.ru/schedule/divisionlistforstuds'
